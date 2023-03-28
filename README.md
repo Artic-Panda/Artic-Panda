@@ -13,3 +13,5 @@ I am a full-stock programmer developing crypto projects. I love learning new tec
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=6296CC)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=e11c4d)
 ![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=Vue.js&logoColor=3eb984)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artic-Panda&show_icons=true&theme=radical)
