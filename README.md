@@ -1,1 +1,1 @@
-[![Header](https://github.com/Artic-Panda/Artic-Panda/assets/2.png)]
+[![Header](https://github.com/Artic-Panda/Artic-Panda/blob/main/assets/2.png)]
