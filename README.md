@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a full-stock programmer developing crypto projects. I love learning new technologies and improving my programming skills.
+I am a full-stack programmer developing crypto projects. I love learning new technologies and improving my programming skills.
 
 ### Languages and Tools:
 
