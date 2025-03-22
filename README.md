@@ -4,14 +4,13 @@
 
 ## About me
 
-I am a full-stack programmer developing crypto projects. I love learning new technologies and improving my programming skills.
+I am a full-stack web-developer
 
 ### Languages and Tools:
 
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=6296CC)
-![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS&logoColor=e11c4d)
-![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=Vue.js&logoColor=3eb984)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artic-Panda&count_private=true&theme=radical&show_icons=true&hide=stars,prs,issues)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
